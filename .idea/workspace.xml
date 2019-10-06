@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36590ee8-a249-4702-9832-8d2ff2b18fbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.swivel.searchapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/organizations.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/tickets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/ApplicationExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/modules/JsonQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/modules/JsonQueryFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/modules/impl/OrganizationJsonQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/modules/impl/TicketJsonQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/modules/impl/UserJsonQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/swivel/searchapp/util/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swivel/searchapp/ApplicationExecutorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swivel/searchapp/modules/JsonQueryFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swivel/searchapp/modules/JsonQueryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swivel/searchapp/modules/impl/OrganizationJsonQueryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swivel/searchapp/modules/impl/TicketJsonQueryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/swivel/searchapp/modules/impl/UserJsonQueryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="615">
-                <caret line="41" column="78" lean-forward="true" selection-start-line="41" selection-start-column="78" selection-end-line="41" selection-end-column="78" />
+              <first_editor relative-caret-position="630">
+                <caret line="42" column="243" lean-forward="true" selection-start-line="42" selection-start-column="243" selection-end-line="42" selection-end-column="243" />
               </first_editor>
               <second_editor />
             </state>
@@ -454,7 +424,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570360629748</updated>
-      <workItem from="1570360633563" duration="21248000" />
+      <workItem from="1570360633563" duration="22201000" />
     </task>
     <servers />
   </component>
@@ -491,7 +461,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21248000" />
+    <option name="totallyTimeSpent" value="22201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -691,8 +661,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="615">
-            <caret line="41" column="78" lean-forward="true" selection-start-line="41" selection-start-column="78" selection-end-line="41" selection-end-column="78" />
+          <first_editor relative-caret-position="630">
+            <caret line="42" column="243" lean-forward="true" selection-start-line="42" selection-start-column="243" selection-end-line="42" selection-end-column="243" />
           </first_editor>
           <second_editor />
         </state>

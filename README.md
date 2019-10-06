@@ -40,3 +40,4 @@ Now you can use the search application. :)
 * Exceptions and handled throughout the application and a meaningful error message will be will displayed to the end user.
 * A factory design pattern is used to implement search logics of three json files
 * Unit tests are implemented to test proper functionality of the application. 
+* Data is directly read from the json files for each search query without storing in a data structure assuming that content of json files can be very large and to facilitate the modifications in json file content while running the application.

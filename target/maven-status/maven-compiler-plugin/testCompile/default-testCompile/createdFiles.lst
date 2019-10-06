@@ -1,0 +1,6 @@
+com/swivel/searchapp/modules/impl/UserJsonQueryTest.class
+com/swivel/searchapp/modules/JsonQueryTest.class
+com/swivel/searchapp/modules/JsonQueryFactoryTest.class
+com/swivel/searchapp/ApplicationExecutorTest.class
+com/swivel/searchapp/modules/impl/TicketJsonQueryTest.class
+com/swivel/searchapp/modules/impl/OrganizationJsonQueryTest.class
